@@ -1,0 +1,5 @@
+*/*.pyc
+.idea
+*.pth
+data_set/*
+!data_set/split_data.py
